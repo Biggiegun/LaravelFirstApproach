@@ -1,0 +1,10 @@
+{
+    "email": "r8write@tech.com",
+    "password": "P@ssw0rd123#R8",
+    "confirmation_password": "P@ssw0rd123#R8",
+    "first_name": "John",
+    "last_name": "Doe",
+    "company": "R8write",
+    "phone_number": "+1234567890",
+    "security_question": "Pablito"
+}
